@@ -1,0 +1,4 @@
+com\resttemplate\SpaceQ\model\ApodResponse.class
+com\resttemplate\SpaceQ\service\SpaceService.class
+com\resttemplate\SpaceQ\SpaceQApplication.class
+com\resttemplate\SpaceQ\controller\SpaceController.class
